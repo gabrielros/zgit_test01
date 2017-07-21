@@ -15,3 +15,6 @@ MESSAGE s398(00) with 'Hello abapGIT'.
 MESSAGE s398(00) with 'Hello abapGIT'.
 
 *prueba cambio desde el repositorio de Github
+* Prueba de FGARCIA con GIT 2
+* Prueba de FGARCIA con GIT 3
+* Prueba de FGARCIA con GIT 4
